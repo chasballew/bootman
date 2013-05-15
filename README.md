@@ -16,8 +16,9 @@ Bootman is a template for a simple Bootstrap-based static site with Middleman. B
 
 Install
 -------
-To install, make a project directory, navigate inside it, and run:  
-```clone git://github.com/chasballew/bootman```
+To install:  
+```clone git://github.com/chasballew/bootman```  
+and move the /bootman directory files into your project folder.
 
 Make sure you have these dependencies:  
 ```gem install middleman```  
@@ -26,6 +27,6 @@ Make sure you have these dependencies:
 
 More
 ----
-To add Compass + Haml, check out <https://github.com/theblacksmith/chubbs>
+To add Compass + Haml in a Middleman project template, check out <https://github.com/theblacksmith/chubbs>
 
 
