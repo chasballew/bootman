@@ -1,12 +1,12 @@
 # Bootman
 
-Project template for a simple Bootstrap-based static site, with some nice development tools build in. 
+Bootman is a template for a simple Bootstrap-based static site with Middleman. Bootman includes the HTML5 Boilerplate code, the Bootstrap js code, Thomas McDonald's bootstrap-sass conversion, and Thoughtbot's Bourbon Sass mixin library.
 
 
 ### 1. HTML5 Boilerplate w/ Bootstrap, includes:
-Bootstrap 2.3.0 responsive
-Modernizr
-jQuery
+bootstrap-sass 2.3.1.0 <https://github.com/thomas-mcdonald/bootstrap-sass>
+Modernizr 2.6.2 <http://modernizr.com/>
+jQuery 1.9.1 <http://jquery.com/>
 
 ### 2. Bourbon for better SASS
 <http://bourbon.io/>
@@ -18,5 +18,6 @@ dependencies (run: '''gem install <name>''')
 middleman
 middleman-smusher
 middleman-livereload
+
 
 

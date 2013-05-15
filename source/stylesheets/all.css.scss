@@ -1,14 +1,20 @@
 @charset "utf-8";
 
 /* include Boostrap overrides here */ 
+/* see bootstrap/_variables.scss for what you can override */
 
+/* example: */
+$navbarInverseBackgroundHighlight: #003366;
+
+
+/* remove responsive if you want */
  @import "bourbon/bourbon";
  @import "bootstrap/bootstrap";
- @import "bootstrap/bootstrap-responsive";
+ @import "bootstrap/responsive";
 
 
 /* ==========================================================================
-   Author's custom styles
+   Put your custom styles here
    ========================================================================== */
 
 body {
