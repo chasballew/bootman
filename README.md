@@ -4,9 +4,9 @@ Bootman is a template for a simple Bootstrap-based static site with Middleman. B
 
 
 #### 1. HTML5 Boilerplate 4.2.0 w/ Bootstrap, includes:
-bootstrap-sass 2.3.1.0 <https://github.com/thomas-mcdonald/bootstrap-sass>
-Modernizr 2.6.2 <http://modernizr.com/>
-jQuery 1.9.1 <http://jquery.com/>
+*bootstrap-sass 2.3.1.0 <https://github.com/thomas-mcdonald/bootstrap-sass>
+*Modernizr 2.6.2 <http://modernizr.com/>
+*jQuery 1.9.1 <http://jquery.com/>
 
 #### 2. Bourbon for better SASS
 <http://bourbon.io/>
@@ -24,6 +24,8 @@ Make sure you have these dependencies:
 '''gem install middleman-smusher
 '''gem install middleman-livereload
 
-### to add Compass + Haml, check out <https://github.com/theblacksmith/chubbs>
+More
+----
+To add Compass + Haml, check out <https://github.com/theblacksmith/chubbs>
 
 
