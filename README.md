@@ -14,10 +14,12 @@ Bootman is a template for a simple Bootstrap-based static site with Middleman. B
 #### 3. Middleman to bring it all together
 <https://github.com/middleman/middleman>
 
-Install
+How to get it
 -------
-To install, make a project directory, navigate inside it, and run:  
-```clone git://github.com/chasballew/bootman```
+Run:  
+```git clone https://github.com/chasballew/bootman```
+
+Rename the "bootman" dir as you see fit.
 
 Make sure you have these dependencies:  
 ```gem install middleman```  

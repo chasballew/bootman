@@ -14,9 +14,43 @@ $navbarInverseBackgroundHighlight: #003366;
 
 
 /* ==========================================================================
-   Put your custom styles here
+   Custom styles
    ========================================================================== */
 
 body {
 	padding-top:40px;
+}
+
+/* ==========================================================================
+   Custom media queries
+   ========================================================================== */
+
+/* Large desktop */
+@media (min-width: 1200px) {
+
+}
+
+/* no mans land */
+@media (min-width: 980px) {
+	
+}
+ 
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px) and (max-width: 979px) {
+	
+}
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 767px) {
+	
+}
+ 
+/* Landscape phones and down */
+@media (max-width: 480px) {
+	
+}
+
+@media (-webkit-min-device-pixel-ratio: 2) and (max-width: 480px){ 
+    /* retina stuff here */
+    
 }
